@@ -1,2 +1,2 @@
-# OklidHesaplama
+# Oklid Hesaplama
  
