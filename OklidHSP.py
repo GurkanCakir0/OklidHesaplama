@@ -15,4 +15,3 @@ min_distance = min(distances)
 
 print(f"Her nokta çifti arasındaki mesafeler: {distances}")
 print(f"Minimum mesafe: {min_distance}")
-#DEneme yanılma yolu
